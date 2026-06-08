@@ -11,24 +11,24 @@
       "name": "bc-integration",
       "description": "Boomi development tools: skills, commands, and agents for building integrations",
       "source": {
-        "source": "url",
-        "url": "https://github.com/UnitedTechnoCloud/bc-integration.git"
+        "source": "github",
+        "repo": "UnitedTechnoCloud/bc-integration"
       }
     },
-      {
+    {
       "name": "bc-marketplace",
       "description": "Boomi Companion: Interact with the Boomi Marketplace",
       "source": {
-        "source": "url",
-        "url": "https://github.com/OfficialBoomi/bc-marketplace.git"
+        "source": "github",
+        "repo": "OfficialBoomi/bc-marketplace"
       }
     },
     {
       "name": "bc-support",
       "description": "Boomi support & operations: runtime inventory, audit logs, process/EDI reporting, deployed-package & connector analysis, log reports, and package diffs across multiple environment profiles",
       "source": {
-        "source": "url",
-        "url": "https://github.com/UnitedTechnoCloud/bc-support.git"
+        "source": "github",
+        "repo": "UnitedTechnoCloud/bc-support"
       }
     }
   ]
